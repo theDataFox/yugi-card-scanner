@@ -1,0 +1,21 @@
+media/tmp.txt
+media/tmp.png
+templates/
+log/
+db/cards.xml
+db/database.sqlite
+db/tcg.dic
+db/tcg.aff
+db/expansion.whitelist
+*.swp
+*.pyc
+
+# development files
+.env
+*.json
+venv/
+.idea/
+
+# key files
+*.ppk
+config.py
